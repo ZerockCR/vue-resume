@@ -69,7 +69,6 @@
                 {
                     "id": 2,
                     "dateStart": {"year": 2024, "month": 3},
-                    "dateEnd": {},
                     "img": "images/places/gpg-logoCorto.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,

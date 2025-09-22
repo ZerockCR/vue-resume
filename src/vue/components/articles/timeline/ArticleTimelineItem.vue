@@ -11,7 +11,7 @@
         <ArticleTimelineItemContent v-if="item"
                                     :title="localize(item.locales, 'title')"
                                     :formatted-date-start="localizeDate(props.item.dateStart)"
-                                    :formatted-date-end="localizeDate(props.item.dateEnd)"
+                                    :formatted-date-end="localizeDate2(props.item.dateEnd)"
                                     :province="localize(item.locales, 'province', true)"
                                     :country="localize(item.locales, 'country', true)"
                                     :institution="localize(item.locales, 'institution')"
@@ -39,6 +39,15 @@ const localize = inject("localize")
 
 /** @type {Function} */
 const localizeDate = inject("localizeDate")
+
+const localizeDate2 = (dateOrString) => {
+    if(!dateOrString)
+    {
+        return 'Actualmente'
+    }
+
+    return localizeDate(dateOrString)
+}
 </script>
 
 <style lang="scss" scoped>

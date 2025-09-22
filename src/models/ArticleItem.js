@@ -40,17 +40,19 @@ export default class ArticleItem {
         return this._parseDate(this._dateStart)
     }
 
-    /** @return {Date|String} */
+    /** @return {Date|null} */
     get dateEnd() {
+        
         return this._parseDate(this._dateEnd)
     }
 
     /**
      * @param {{year: Number, month: Number, day: Number, string: String}} [datePreset = null]
-     * @return {null|Date|*}
+     * @return {null|Date}
      * @private
      */
     _parseDate(datePreset) {
+        if(datePreset === undefined) return null
         if(!datePreset) return null
         if(datePreset.string) return datePreset.string
 
