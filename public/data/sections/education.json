@@ -1,0 +1,67 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 3},
+                    "dateEnd": {"year": 2022, "month": 11},
+                    "img": "images/places/uam-logo.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor’s Degree in Systems Engineering",
+                            "description": "Completed a curriculum covering fundamental topics in computer science, including algorithms, programming with various focuses, proper data structuring, and database construction. Gained practical experience in problem-solving and logical thinking. Additionally, received significant emphasis on the construction and composition of computer hardware, servers, and network components.",
+                            "province": "San José, San Pedro",
+                            "country": "Costa Rica",
+                            "institution": "Universidad Americana de Costa Rica",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "Bachillerato en Ingeniería en Sistemas",
+                            "description": "Se finalizó la carrera que cubría los temas fundamentales de la informática en general, como lo son los algoritmos, la programación enfocada en diferentes aspectos, la correcta estructuración de datos y la construcción de bases de datos. Adquiriendo experiencia práctica en resolución de problemas y pensamiento lógico. Además, dando un énfasis importante a la construcción y composición del hardware de las computadoras, servidores y componentes de redes.",
+                            "province": "San José, San Pedro",
+                            "country": "Costa Rica",
+                            "institution": "Universidad Americana de Costa Rica",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2023, "month": 0},
+                    "dateEnd": {"year": 2025, "month": 11},
+                    "img": "images/places/uFide-Logo.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Degree in Systems Engineering",
+                            "description": "The degree is based on the development and application of skills in research, problem-solving, and decision-making through technology. Acquired the ability to plan, develop, lead, and control information systems using applied techniques, ensuring efficient and effective solutions.",
+                            "province": "San José, Curridabat",
+                            "country": "Costa Rica",
+                            "institution": "Universidad Fidélitas",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "Licenciatura en Ingeniería en Sistemas",
+                            "description": "La titulación se fundamenta en el desarrollo y aplicación de habilidades en investigación, resolución de problemas y toma de decisiones mediante la tecnología. Adquiriendo la capacidad para planificar, desarrollar, dirigir y controlar sistemas informáticos con técnicas aplicadas, asegurando soluciones eficientes y efectivas.",
+                            "province": "San José, Curridabat",
+                            "country": "Costa Rica",
+                            "institution": "Universidad Fidélitas",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

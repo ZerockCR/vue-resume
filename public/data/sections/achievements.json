@@ -1,0 +1,108 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"},
+                "es": {"title": "Certificaciones"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 3},
+                    "fallbackFaIcon": "fa-solid fa-cube",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "AuraQuantic Certifications",
+                            "description": "AuraQuantic is an enterprise software platform specialized in business process orchestration and automation, as well as the design of business applications without the need for programming (No-Code and Low-Code).",
+                            "institution": "AuraQuantic"
+                        },
+                        "es": {
+                            "title": "AuraQuantic Certificaciones",
+                            "description": "AuraQuantic es una plataforma de software empresarial especializada en la orquestación y automatización de procesos de negocio, así como en el diseño de aplicaciones empresariales sin necesidad de programación (No-Code y Low-Code).",
+                            "institution": "AuraQuantic"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.auraquantic.com/es/", "stringKey": "view_certification"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2025, "month": 6},
+                    "fallbackFaIcon": "fa-solid fa-arrows-split-up-and-left",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Scrum Master",
+                            "description": "Professional Certification SMPC",
+                            "institution": "Certiprof" 
+                        },
+
+                        "es": {
+                            "title": "Scrum Master",
+                            "description": "Certificación Profesional SMPC",
+                            "institution": "Certiprof"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://certiprof.com/collections/agile-management-and-scrum/products/scrum-master-professional-certificate-smpc", "stringKey": "view_certification"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2019, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-code-branch",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cisco CCNA",
+                            "description": "Completed the following courses: CCNA 1: Introduction to Networks, CCNA 2: Routing and Switching Fundamentals, CCNA 3: Scaling Networks, CCNA 4: Connecting Networks. CCNA Version 7 through a bridge provided by the academy.",
+                            "institution": "Technology Academy of the University of Costa Rica"
+                        },
+
+                        "es": {
+                            "title": "Cisco CCNA",
+                            "description": "Se cursaron: CCNA 1: Introducción a las redes, CCNA 2: Fundamentos de enrutamiento y conmutación, CCNA 3: Escalado de redes, CCNA 4: Conexión de redes. CCNA V7 a través de un puente proporcionado por la academia.",
+                            "institution": "Academía de Tecnología de la UCR"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://acaducr.ucr.ac.cr/ccna-v7/", "stringKey": "view_certification"}
+                    ]
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2019, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cisco IT Essentials",
+                            "description": "It was conducted in version 6. This course covers the fundamentals of computer hardware and software for computers and mobile devices, as well as concepts such as security, networking, and the responsibilities of an IT professional.",
+                            "institution": "Technology Academy of the University of Costa Rica"
+                        },
+
+                        "es": {
+                            "title": "Cisco IT Essentials",
+                            "description": "Se llevó a cabo en la versión 6. Este curso aborda los fundamentos del hardware y software de computadoras y dispositivos móviles, así como conceptos como seguridad, redes y las responsabilidades de un profesional de TI.",
+                            "institution": "Academía de Tecnología de la UCR"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://acaducr.ucr.ac.cr/it-essentials-v7/", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

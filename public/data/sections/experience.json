@@ -1,0 +1,121 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 2},
+                    "dateEnd": {"year": 2024, "month": 4},
+                    "img": "images/places/gpg-logoCorto.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "Full Stack Developer with 3 years of experience in developing and maintaining enterprise applications, capable of working on both front end and back end. Responsible for designing and implementing web services and APIs to facilitate system integration, using technologies such as C#, .NET, SQL, and LinQ. Practical experience with low code/no code tools like Aura Quantic to accelerate processes, as well as performing integrations with custom code development. Advanced proficiency in development environments such as Visual Studio, VS Code, and version control tools like Git. Familiar with Agile methodologies to ensure timely deliveries and collaborative work. Accountable for creating clear technical documentation to support teams and end users, committed to continuous improvement and adopting new technologies that enhance team efficiency and software quality.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Back End Developer with <strong>3 years of experience</strong> in developing enterprise applications using a suite of IT tools.",
+                                    "Designed, developed, and <strong>implemented REST and SOAP web services</strong> for the integration of internal and external systems.",
+                                    "<strong>Created and consumed APIs</strong> using technologies such as C# and .NET.",
+                                    "Developed tests and debugged web services to <strong>ensure the quality and performance</strong> of systems.",
+                                    "Experienced with <strong>development tools</strong> like Visual Studio, Visual Studio Code, Postman, GitHub, Bitbucket, and SQL Management Studio.",
+                                    "Solid knowledge of <strong>programming languages</strong> such as C#, .NET Core, SQL, LinQ, and Python.",
+                                    "Performed <strong>optimizations and improvements</strong> in the front-end development of a web portal, integrating backend API queries to display results in dynamic tables. Used technologies like Vue and TypeScript to ensure an efficient and smooth user experience, enhancing system performance and usability.",
+                                    "Front-end developer with experience in <strong>developing and maintaining web applications</strong> using Vue.js. Responsible for building intuitive and dynamic interfaces, ensuring compatibility across devices and browsers.",
+                                    "Experienced in creating <strong>technical documentation and user manuals</strong> to ensure knowledge transfer.",
+                                    "Committed to <strong>continuous improvement</strong> and <strong>acquiring technical</strong> skills in emerging technologies."
+                                ]
+                            },
+                            "province": "San José",
+                            "country": "Costa Rica",
+                            "institution": "GPG - Global Professional Group",
+                            "tags": ["AuraQuantic", "Databases", "Programming"]
+                        },
+                        "es": {
+                            "title": "Desarrollador Full Stack",
+                            "description": "Desarrollador Full Stack con 3 años de experiencia en el desarrollo y mantenimiento de aplicaciones empresariales, capaz de trabajar tanto en el front end como en el back end. Encargado del diseño e implementación de servicios web y APIs para facilitar la integración de sistemas, utilizando tecnologías como C#, .NET, SQL y LinQ. Experiencia práctica en el uso de herramientas low code/no code como Aura Quantic para acelerar procesos, además, de realizar integraciones con desarrollos en código. Manejo avanzado de entornos de desarrollo como Visual Studio, VS Code y herramientas de control de versiones como Git. Familiarizado con metodologías Agile para asegurar entregas puntuales y trabajo colaborativo. Responsabilidad en la creación de documentación técnica clara para apoyar a los equipos y usuarios finales, comprometido con la mejora continua y la adopción de nuevas tecnologías que potencien la eficiencia del equipo y la calidad del software.",
+                            "list": {
+                                "title": "Responsabilidades Clave:",
+                                "items": [
+                                    "Desarrollador Back End con <strong>3 años de experiencia</strong> en el desarrollo de aplicaciones empresariales utilizando la suite de herramientas informáticas.",
+                                    "Creé diseños, desarrollos e implementaciones de <strong>servicios web REST y SOAP</strong> para la integración de <strong>sistemas internos y externos.</strong>",
+                                    "<strong>Realización y consumo de API’s</strong> utilizando tecnologías como C# y .NET.",
+                                    "Desarrollo de pruebas y depuración de servicios web para <strong>asegurar la calidad y el rendimiento</strong> de los sistemas.",
+                                    "Experiencia en <strong>herramientas de desarrollo</strong> de código como Visual Studio, Visual Studio Code, Postman, Github, Bitbucket y SQL Management Studio.",
+                                    "Conocimientos sólidos en los <strong>lenguajes de programación</strong> como C#, .NET Core, SQL, LinQ y Python.",
+                                    "Realicé optimizaciones y mejoras en el <strong>desarrollo front end de un portal web</strong>, integrando consultas a un API backend para mostrar los resultados en tablas dinámicas. Utilicé tecnologías como Vue y TypeScript para asegurar una experiencia de usuario eficiente y fluida, mejorando la performance y la usabilidad del sistema.",
+                                    "Front end developer con experiencia en el <strong>desarrollo y mantenimiento de aplicaciones web</strong> utilizando Vue.js. Responsable de construir interfaces intuitivas y dinámicas, asegurando la compatibilidad entre dispositivos y navegadores.",
+                                    "Experiencia en la creación de <strong>documentación técnica y manuales de usuario</strong> para asegurar la transferencia de conocimiento.",
+                                    "Comprometido con la <strong>mejora continua</strong> y la <strong>adquisición de habilidades</strong> técnicas en tecnologías emergentes."
+                                ]
+                            },
+                            "province": "San José",
+                            "country": "Costa Rica",
+                            "institution": "GPG - Global Professional Group",
+                            "tags": ["AuraQuantic", "Base de Datos", "Programación"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 3},
+                    "dateEnd": {},
+                    "img": "images/places/gpg-logoCorto.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Team Lead",
+                            "description": "I led multidisciplinary teams, facilitating smooth communication between technical and commercial areas to ensure alignment with business objectives. Additionally, I promoted the adoption of development best practices and encouraged collaboration through code reviews and agile dynamics. I was responsible for identifying and resolving technical and organizational challenges, proposing innovative solutions that improve operational efficiency and team performance. I managed priorities and delivery timelines across multiple projects (13 projects), ensuring deadlines were met and deliverable quality was maintained.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": 
+                                [
+                                    "Experience coordinating a team of two developers, facilitating <strong>effective communication</strong> between technical and business areas to ensure project success.",
+                                    "Knowledge of <strong>agile methodologies</strong> to contribute to collaborative and efficient development.",
+                                    "Conducted <strong>usability and functionality testing</strong> to validate designs and gather feedback.",
+                                    "Collaborated with developers to identify complex challenges and propose <strong>innovative solutions, optimizing processes and resources.</strong>",
+                                    "Worked as a team to ensure <strong>design feasibility and implementation.</strong>"
+                                ]
+                            },
+                            "province": "San José",
+                            "country": "Costa Rica",
+                            "institution": "GPG - Global Professional Group",
+                            "tags": ["AuraQuantic", "Agile Methodologies"]
+                        },
+                        "es": {
+                            "title": "Líder de Equipo",
+                            "description": "Lideré equipos multidisciplinarios, facilitando la comunicación fluida entre áreas técnicas y comerciales para asegurar la alineación con los objetivos del negocio. Por otra parte, impulsé la adopción de buenas prácticas de desarrollo y promoví la colaboración mediante revisiones de código y dinámicas ágiles. Me encargué de identificar, resolver retos técnicos y organizativos, proponiendo soluciones innovadoras que mejoran la eficiencia operativa y el rendimiento del equipo. Gestioné prioridades y tiempos de entrega en múltiples proyectos (13 proyectos), garantizando el cumplimiento de plazos y la calidad de los entregables.",
+                            "list": {
+                                "title": "Responsabilidades Clave:",
+                                "items": 
+                                [
+                                    "Experiencia en la coordinación del equipo de dos desarrolladores, facilitando la <strong>comunicación efectiva</strong> entre áreas técnicas y de negocio para asegurar el éxito de los proyectos.",
+                                    "Conocimento en <strong>métodologías ágiles</strong>, para contribuir a un desarrollo colaborativo y eficiente.",
+                                    "Realicé <strong>pruebas de usabilidad y funcionalidad</strong> para validar los diseños y recopilar comentarios.",
+                                    "Colaboré con desarrolladores para identificar desafíos complejos y proponer <strong>soluciones innovadoras, optimizando procesos y recursos.</strong>",
+                                    "Trabajo en equipo para garantizar la <strong>viabilidad del diseño y su implementación.</strong>"
+                                ]
+                            },
+                            "province": "San José",
+                            "country": "Costa Rica",
+                            "institution": "GPG - Global Professional Group",
+                            "tags": ["AuraQuantic", "Metodologías Ágiles"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
