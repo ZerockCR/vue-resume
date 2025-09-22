@@ -1,0 +1,62 @@
+{
+    "name": "Andrés Lobo C",
+    "profilePictureUrl": "images/pictures/avatar.jpeg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/ZerockCR'>Andrés Lobo</a></strong>",
+            "role": "Full Stack Developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a href='https://github.com/ZerockCR'>Andrés Lobo</a></strong>",
+            "role": "Desarrollador Full Stack"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Costa Rica, San José, Curridabat.",
+                    "valueShort": "CR - San José"
+                },
+                "es": {
+                    "value": "Costa Rica, San José, Curridabat.",
+                    "valueShort": "CR - San José"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "loboa916@gmail.com",
+            "valueShort": "loboa916@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:loboa916@gmail.com"
+        },
+        {
+            "id": "github",
+            "value": "@ZerockCR",
+            "valueShort": "@ZerockCR",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/ZerockCR"
+        },
+        {
+            "id": "linkedin",
+            "value": "@Andrés Lobo",
+            "valueShort": "@Andrés Lobo",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/andr%C3%A9s-lobo-57b066200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "id": "phone",
+            "value": "+506 7007-0585",
+            "valueShort": "7007-0585",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "https://wa.me/50670070585"
+        }
+    ]
+}

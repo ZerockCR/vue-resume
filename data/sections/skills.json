@@ -1,0 +1,494 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "fallbackFaIcon": "fa-solid fa-terminal",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front End & Back End Development",
+                            "description": "Ability to develop and adapt to different programming languages.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Desarrollo Front End & Back End",
+                            "description": "Capacidad de desarrollo y adaptación a diferentes lenguajes de programación.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-check-double",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Usability Testing",
+                            "description": "Enhancing user experiences through comprehensive usability testing.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Pruebas de Usabilidad",
+                            "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-expand-arrows-alt",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Interaction Design",
+                            "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Diseño de Interacción",
+                            "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Agile Methodologies",
+                            "description": "Experience in applying agile methodologies to development projects.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Metodologías ágiles",
+                            "description": "Experiencia en la aplicación de metodologías ágiles a proyectos de desarrollo.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paper-plane",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Effective Communication",
+                            "description": "Capable of conveying technical ideas to multidisciplinary teams.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Comunicación efectiva",
+                            "description": "Capaz de transmitir ideas técnicas a equipos multidisciplinarios.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-people-group",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Teamwork",
+                            "description": "Collaborative and willing to support others to achieve common goals.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Trabajo en equipo",
+                            "description": "Colaborativo y dispuesto a apoyar a otros para cumplir objetivos comunes.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 7,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-globe",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Adaptability",
+                            "description": "Knowledge and ability to quickly adjust to new technologies, methodologies, and project changes.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Adaptabilidad",
+                            "description": "Conocimiento y habilidad para ajustarse rápidamente a nuevas tecnologías, metodologías y cambios en los proyectos.",
+                            "level": null
+                        }
+                    }
+                },
+
+
+                {
+                    "id": 8,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-puzzle-piece",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Problem Solving",
+                            "description": "Analytical approach to identify challenges and propose viable and effective solutions.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Resolución de problemas",
+                            "description": "Enfoque analítico para identificar desafíos y proponer soluciones viables y efectivas.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 9,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-timeline",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Time Management",
+                            "description": "Ability to organize tasks, prioritize, and meet established deadlines.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Gestión del tiempo",
+                            "description": "Capacidad para organizar tareas, priorizar y cumplir con los plazos establecidos.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 10,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-brain",
+                    "fallbackFaIconColor": "#ffa8d9",
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Critical Thinking",
+                            "description": "Analyzing situations from different perspectives to make informed decisions.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Pensamiento crítico",
+                            "description": "Analizar situaciones desde diferentes perspectivas para tomar decisiones informadas.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "es": {"title": "Stack de Frontend"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2025, "month": 2},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": "Experienced with HTML5 elements and features."
+                        },
+                        "es": {
+                            "title": "HTML 5",
+                            "description": "Conocimientos en elementos y características de HTML5."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2025, "month": 0},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "description": "Skilled in CSS3 techniques."
+                        },
+                        "es": {
+                            "title": "CSS 3",
+                            "description": "Conocimientos en técnicas de CSS3."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 3},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": ""
+                        },
+                        "es": {
+                            "title": "Javascript",
+                            "description": "Capacidad para crear aplicaciones web dinámicas e interactivas en JavaScript."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2025, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Capable of building and deploying complex Vue applications."
+                        },
+                        "es": {
+                            "title": "Vue 3",
+                            "description": "Capaz de construir y desplegar aplicaciones complejas con Vue."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "es": {"title": "Stack de Backend"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 0},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                        },
+                        "es": {
+                            "title": "MySQL",
+                            "description": "Hábil en gestionar bases de datos MySQL, incluyendo diseño de esquemas y optimización de consultas."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2023, "month": 5},
+                    "img": "images/Languajes/c-sharp.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "C#",
+                            "description": "Expert in building dynamic web applications with C# .NET, including server-side logic, database integration, APIs, and web service consumption, among others."
+                        },
+                        "es": {
+                            "title": "C#",
+                            "description": "Experto en construir aplicaciones web dinámicas con C# .NET, incluyendo lógica del servidor, integración de bases de datos, API's, Consumo de Servicio Web, entre otras."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-server",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "LinQ Entity Framwork",
+                            "description": "Execution of database queries through code using LinQ in Entity Framework."
+                        },
+                        "es": {
+                            "title": "LinQ Entity Framwork",
+                            "description": "Realización de consultas a la base de datos a través de código mediante LinQ en Entity Framework."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2024, "month": 8},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "description": "Capable of developing robust programs in Python integrating different technologies."
+                        },
+                        "es": {
+                            "title": "Python",
+                            "description": "Capaz de desarrollar programas rebustos en Python integrando diferentes tecnologías."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2025, "month": 6},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-java",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "description": "Capable of developing programs in Java and performing optimization on the developments."
+                        },
+                        "es": {
+                            "title": "Java",
+                            "description": "Capaz de desarrollar programas en Java y realizar optimización a los desarrollos."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Intermediate speaker with communication and writing skills.",
+                            "level": "Intermediate"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "description": "Hablante de nivel intermedio con habilidades de comunicación y escritura.",
+                            "level": "Intermedio"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/es.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Spanish",
+                            "description": "Native in both spoken and written Spanish; confident in professional communication.",
+                            "level": "Native"
+                        },
+                        "es": {
+                            "title": "Español",
+                            "description": "Hablante nativo del español; seguro en la comunicación profesional.",
+                            "level": "Nativo"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

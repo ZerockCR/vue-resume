@@ -1,0 +1,132 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *my website!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "es": {
+                    "title": "¡Bienvenido a *mi página web!*",
+                    "title_short": "¡Bienvenido!",
+                    "description": null,
+                    "nav_label": "Acerca de"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "es": {
+                    "title": "Experiencia *Profesional*",
+                    "title_short": null,
+                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
+                    "nav_label": "Experiencia"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "es": {
+                    "title": "Carrera *Educativa*",
+                    "title_short": null,
+                    "description": "Un vistazo a mi trayectoria académica y logros.",
+                    "nav_label": "Educación"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "es": {
+                    "title": "Conjunto de *Habilidades*",
+                    "title_short": null,
+                    "description": "Habilidades que he adquirido y desarrollado:",
+                    "nav_label": "Habilidades"
+                }
+            }
+        },
+
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/achievements.json",
+            "faIcon": "fa-solid fa-award",
+            "type": "row",
+            "locales": {
+                "en": {
+                    "title": "Career *Achievements*",
+                    "title_short": null,
+                    "description": "My journey as a developer has been marked by unwavering dedication to learning and skill improvement. As a result, I have compiled a list of notable certifications:",
+                    "nav_label": "Achievements"
+                },
+                "es": {
+                    "title": "Logros *Profesionales*",
+                    "title_short": null,
+                    "description": "Mi trayectoria como desarrollador ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades. Como resultado, he recopilado una lista de certificaciones notables:",
+                    "nav_label": "Logros"
+                }
+            }
+        },
+
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact* Me",
+                    "title_short": null,
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+                    "nav_label": "Contact"
+                },
+                "es": {
+                    "title": "Ponte en *Contacto*",
+                    "title_short": null,
+                    "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
+                    "nav_label": "Contacto"
+                }
+            }
+        }
+    ]
+}

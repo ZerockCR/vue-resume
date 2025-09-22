@@ -1,0 +1,51 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "Systems Engineering professional with 3 years of experience leading software development teams and developing comprehensive Full Stack solutions."
+                        },
+                        "es": {
+                            "description": "Profesional en Ingeniería en Sistemas con 3 años de experiencia liderando equipos de desarrollo de software y desarrollando soluciones integrales Full Stack."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "With solid experience in back-end development and practical knowledge of front-end technologies, I specialize in creating robust, scalable, and user-oriented applications. Additionally, I optimize and improve established applications efficiently and effectively."
+                        },
+
+                        "es": {
+                            "description": "Con sólida experiencia en desarrollo back end y conocimientos prácticos en tecnologías front end, me especializo en crear aplicaciones robustas, escalables y orientadas al usuario. Además de realizar innovaciones y mejoras a aplicaciones ya establecidas, de forma óptima y eficiente."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "locales": {
+                        "en": {
+                            "description": "Passionate about technological innovation and continuous team development, I seek to advance my career by leading complex projects and actively participating in all phases of the development cycle, from design to implementation and deployment of solutions that meet client needs."
+                        },
+                        "es": {
+                            "description": "Apasionado por la innovación tecnológica y la formación continua del equipo, busco potenciar mi carrera liderando proyectos completos / complejos y participando activamente en todas las fases del ciclo de desarrollo, desde el diseño hasta la implementación y despliegue de soluciones que satisfagan las necesidades del cliente."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
