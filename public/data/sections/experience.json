@@ -20,20 +20,17 @@
                     "locales": {
                         "en": {
                             "title": "Full Stack Developer",
-                            "description": "Full Stack Developer with 3 years of experience in developing and maintaining enterprise applications, capable of working on both front end and back end. Responsible for designing and implementing web services and APIs to facilitate system integration, using technologies such as C#, .NET, SQL, and LinQ. Practical experience with low code/no code tools like Aura Quantic to accelerate processes, as well as performing integrations with custom code development. Advanced proficiency in development environments such as Visual Studio, VS Code, and version control tools like Git. Familiar with Agile methodologies to ensure timely deliveries and collaborative work. Accountable for creating clear technical documentation to support teams and end users, committed to continuous improvement and adopting new technologies that enhance team efficiency and software quality.",
+                            "description": "Full Stack Developer with over 3 years of experience in designing and implementing scalable and efficient web applications with clean and readable structures. Experienced in agile methodologies, working in multidisciplinary teams to deliver projects from prototype to production. Passionate about technological innovation, I seek challenges that allow me to apply my full stack expertise to drive both business and personal growth.",
                             "list": {
                                 "title": "Key Responsibilities",
                                 "items": [
-                                    "Back End Developer with <strong>3 years of experience</strong> in developing enterprise applications using a suite of IT tools.",
+                                    "Development and maintenance of full stack enterprise applications using <strong>C#, .NET Core, SQL, and LinQ.</strong>",
                                     "Designed, developed, and <strong>implemented REST and SOAP web services</strong> for the integration of internal and external systems.",
-                                    "<strong>Created and consumed APIs</strong> using technologies such as C# and .NET.",
-                                    "Developed tests and debugged web services to <strong>ensure the quality and performance</strong> of systems.",
-                                    "Experienced with <strong>development tools</strong> like Visual Studio, Visual Studio Code, Postman, GitHub, Bitbucket, and SQL Management Studio.",
-                                    "Solid knowledge of <strong>programming languages</strong> such as C#, .NET Core, SQL, LinQ, and Python.",
-                                    "Performed <strong>optimizations and improvements</strong> in the front-end development of a web portal, integrating backend API queries to display results in dynamic tables. Used technologies like Vue and TypeScript to ensure an efficient and smooth user experience, enhancing system performance and usability.",
-                                    "Front-end developer with experience in <strong>developing and maintaining web applications</strong> using Vue.js. Responsible for building intuitive and dynamic interfaces, ensuring compatibility across devices and browsers.",
-                                    "Experienced in creating <strong>technical documentation and user manuals</strong> to ensure knowledge transfer.",
-                                    "Committed to <strong>continuous improvement</strong> and <strong>acquiring technical</strong> skills in emerging technologies."
+                                    "I have integrated <strong>relational databases</strong> (MySQL) and NoSQL (MongoDB) to optimize performance and data persistence.",
+                                    "<strong>Creation, consumption, and optimization</strong> of APIs to improve communication between front end and back end.",
+                                    "Front end development with <strong>Vue.js</strong> and <strong>TypeScript</strong>, building dynamic, responsive interfaces compatible with multiple devices.",
+                                    "Advanced use of <strong>development tools</strong> such as Visual Studio, VS Code, Postman, GitHub, and Bitbucket for version control and testing.",
+                                    "Continuous optimization and adoption of new technologies focused on improving <strong>software efficiency</strong> and user experience."
                                 ]
                             },
                             "province": "San José",
@@ -43,20 +40,17 @@
                         },
                         "es": {
                             "title": "Desarrollador Full Stack",
-                            "description": "Desarrollador Full Stack con 3 años de experiencia en el desarrollo y mantenimiento de aplicaciones empresariales, capaz de trabajar tanto en el front end como en el back end. Encargado del diseño e implementación de servicios web y APIs para facilitar la integración de sistemas, utilizando tecnologías como C#, .NET, SQL y LinQ. Experiencia práctica en el uso de herramientas low code/no code como Aura Quantic para acelerar procesos, además, de realizar integraciones con desarrollos en código. Manejo avanzado de entornos de desarrollo como Visual Studio, VS Code y herramientas de control de versiones como Git. Familiarizado con metodologías Agile para asegurar entregas puntuales y trabajo colaborativo. Responsabilidad en la creación de documentación técnica clara para apoyar a los equipos y usuarios finales, comprometido con la mejora continua y la adopción de nuevas tecnologías que potencien la eficiencia del equipo y la calidad del software.",
+                            "description": "Desarrollardor Full Stack con más de 3 años de experiencia en el diseño e implementación de aplicaciones web escalables y eficientes con estructuras limpias y legibles. Experiencia en metodologías ágiles, trabajando en equipos multidisciplinarios para entregar proyectos desde el prototipo hasta la producción. Apasionado por la innovación tecnológica, busco desafíos que permitan aplicar mi expertise en soluciones full stack para impulsar el crecimiento empresarial y personal.",
                             "list": {
                                 "title": "Responsabilidades Clave:",
                                 "items": [
-                                    "Desarrollador Back End con <strong>3 años de experiencia</strong> en el desarrollo de aplicaciones empresariales utilizando la suite de herramientas informáticas.",
-                                    "Creé diseños, desarrollos e implementaciones de <strong>servicios web REST y SOAP</strong> para la integración de <strong>sistemas internos y externos.</strong>",
-                                    "<strong>Realización y consumo de API’s</strong> utilizando tecnologías como C# y .NET.",
-                                    "Desarrollo de pruebas y depuración de servicios web para <strong>asegurar la calidad y el rendimiento</strong> de los sistemas.",
-                                    "Experiencia en <strong>herramientas de desarrollo</strong> de código como Visual Studio, Visual Studio Code, Postman, Github, Bitbucket y SQL Management Studio.",
-                                    "Conocimientos sólidos en los <strong>lenguajes de programación</strong> como C#, .NET Core, SQL, LinQ y Python.",
-                                    "Realicé optimizaciones y mejoras en el <strong>desarrollo front end de un portal web</strong>, integrando consultas a un API backend para mostrar los resultados en tablas dinámicas. Utilicé tecnologías como Vue y TypeScript para asegurar una experiencia de usuario eficiente y fluida, mejorando la performance y la usabilidad del sistema.",
-                                    "Front end developer con experiencia en el <strong>desarrollo y mantenimiento de aplicaciones web</strong> utilizando Vue.js. Responsable de construir interfaces intuitivas y dinámicas, asegurando la compatibilidad entre dispositivos y navegadores.",
-                                    "Experiencia en la creación de <strong>documentación técnica y manuales de usuario</strong> para asegurar la transferencia de conocimiento.",
-                                    "Comprometido con la <strong>mejora continua</strong> y la <strong>adquisición de habilidades</strong> técnicas en tecnologías emergentes."
+                                    "Desarrollo y mantenimiento de aplicaciones empresariales full stack utilizando <strong>C#, .NET Core, SQL y LinQ.</strong>",
+                                    "Diseño e implementación de servicios web <strong>REST y SOAP</strong> para integración de sistemas internos y externos.",
+                                    "He integrado bases de datos <strong>relacionales</strong> (MySQL) y NoSQL (MongoDB) para <strong>optimizar</strong> el <strong>rendimiento</strong> y la <strong>persistencia de datos</strong>.",
+                                    "<strong>Creación, consumo y optimización</strong> de APIs para mejorar la comunicación entre front end y back end.",
+                                    "Desarrollo front end con <strong>Vue.js</strong> y <strong>TypeScript</strong>, construyendo interfaces dinámicas, responsivas y compatibles con múltiples dispositivos.",
+                                    "Uso avanzado de <strong>herramientas de desarrollo</strong> como <strong>Visual Studio</strong>, <strong>VS Code</strong>, <strong>Postman</strong>, <strong>GitHub</strong> y <strong>Bitbucket</strong> para control de versiones y pruebas.",
+                                    "Optimización continua y adopción de nuevas tecnologías enfocadas en mejorar la <strong>eficiencia del software</strong> y la experiencia de usuario."
                                 ]
                             },
                             "province": "San José",
