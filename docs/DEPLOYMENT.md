@@ -10,7 +10,7 @@ export default defineConfig({
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/vue-resume-template/`, the correct base directory to set is `/vue-resume-template/`.
+In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://zerockcr.github.io/vue-resume/`, the correct base directory to set is `/vue-resume/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
 
