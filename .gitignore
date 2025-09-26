@@ -24,4 +24,4 @@ dist/
 *.sw?
 
 # Files
-./files/*
+*.files/*

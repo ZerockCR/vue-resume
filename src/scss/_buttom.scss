@@ -13,9 +13,31 @@ button {
     transition: background-color 0.3s ease;
     font-size: 1rem;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap : 0.5rem;
     
+    icono-download {
+        width: 0.5rem;
+        height: 0.5rem;
+        flex-shrink: 0;
+        object-fit: contain;
+        transition: transform 0.3s ease;
+    }
+
+    .texto-button {
+        @media (max-width: 767px) {
+            display: none;
+        }
+    }
+
     &:hover {
         background-color: darken(#4040fb, 10%);
+
+        .icono-download {
+            transform: scale(1.1);
+        }
     }
 
     @media (max-width: 767px) {
@@ -26,6 +48,11 @@ button {
         min-height: 3rem;
         border-radius: 0.5rem; 
         font-size: 0.6rem;
+
+        .icono-download {
+            width: 1rem;
+            height: 1rem;
+        }
     }
 
     @media (min-width: 768px) and (max-width: 1023px) {
@@ -36,6 +63,11 @@ button {
         min-height: 3rem;
         border-radius: 0.5rem; 
         font-size: 1rem;
+
+        .icono-download {
+            width: 1rem;
+            height: 1rem;
+        }
     }
 
     // Media Query para Desktop (1024px+)
@@ -43,5 +75,10 @@ button {
         bottom: 3.34rem; 
         right: 3.34rem;
         padding: 1.25rem 2.81rem;
+        gap: 0.75rem;
+        .icono-download {
+            width: 1.5rem;
+            height: 1.5rem;
+        }
     }
 }
