@@ -1,4 +1,5 @@
 <template>
+    <button @click="btnClick" aria-label="Download CV">Download CV</button>
     <article class="article" :class="{
         'article-with-margin-bottom': sectionType === Section.Types.COLUMN,
         'article-with-margin-right': sectionType === Section.Types.ROW,
@@ -14,6 +15,7 @@
 
 <script setup>
 import {computed, inject} from "vue"
+import jsPDF from "jspdf"
 import ArticleTitle from "/src/vue/components/articles/base/ArticleTitle.vue"
 import Section from "/src/models/Section.js"
 
@@ -38,10 +40,33 @@ const title = computed(() => {
 const description = computed(() => {
     return localize(props.model.locales, "description", true)
 })
+
+const btnClick = () => {
+    //Define the file URL.
+    const urlCV = './files/Ejemplo de Documento.pdf'
+
+    // Create a temporary link element to trigger the download.
+    const link = document.createElement('a');
+
+    // Set the link's href and download attributes.
+    link.href = urlCV;
+
+    // Set the desired file name for the downloaded file.
+    link.download = 'Ejemplo de Documento.pdf';
+
+    // Append the link to the document, trigger the click, and then remove the link.
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+
+    console.log('CV Descargado!')
+}
 </script>
 
 <style lang="scss" scoped>
 @import "/src/scss/_theming.scss";
+@import "/src/scss/variables.scss";
+@import "/src/scss/_buttom.scss";
 
 article.article {
     color: $text-default-color;
