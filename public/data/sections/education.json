@@ -38,7 +38,6 @@
                 {
                     "id": 2,
                     "dateStart": {"year": 2023, "month": 0},
-                    "dateEnd": {"year": 2025, "month": 11},
                     "img": "images/places/uFide-Logo.jpg",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
