@@ -1,0 +1,47 @@
+button {
+    position: fixed;
+    bottom: 3.34rem;
+    right: 3.34rem;
+    z-index: 1000;
+    padding: 1.25rem 2.81rem;
+    background-color: $nav-background;
+    color: white;
+    border: none;
+    border-radius: 0.3125rem;
+    cursor: pointer;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    font-size: 1rem;
+    font-weight: bold;
+    
+    &:hover {
+        background-color: darken(#4040fb, 10%);
+    }
+
+    @media (max-width: 767px) {
+        bottom: 4rem;
+        right: 0.5rem;
+        padding: 1rem 1.25rem;
+        min-width: 3rem;
+        min-height: 3rem;
+        border-radius: 0.5rem; 
+        font-size: 0.6rem;
+    }
+
+    @media (min-width: 768px) and (max-width: 1023px) {
+        bottom: 4.5rem;
+        right: 1rem;
+        padding: 1rem 1.25rem;
+        min-width: 3rem;
+        min-height: 3rem;
+        border-radius: 0.5rem; 
+        font-size: 1rem;
+    }
+
+    // Media Query para Desktop (1024px+)
+    @media (min-width: 1024px) {
+        bottom: 3.34rem; 
+        right: 3.34rem;
+        padding: 1.25rem 2.81rem;
+    }
+}
