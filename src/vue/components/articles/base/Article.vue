@@ -1,5 +1,11 @@
 <template>
-    <button @click="btnClick" aria-label="Download CV">Download CV</button>
+    <button @click="btnClick" aria-label="Download CV">
+        <img :src="iconDownload" 
+        alt="" 
+        class="icono-download" 
+        aria-hidden="true" />
+        <span class="texto-button">Download CV</span>
+    </button>
     <article class="article" :class="{
         'article-with-margin-bottom': sectionType === Section.Types.COLUMN,
         'article-with-margin-right': sectionType === Section.Types.ROW,
@@ -18,6 +24,7 @@ import {computed, inject} from "vue"
 import jsPDF from "jspdf"
 import ArticleTitle from "/src/vue/components/articles/base/ArticleTitle.vue"
 import Section from "/src/models/Section.js"
+import iconDownload from "/images/icons/cloud-computing.png"
 
 const props = defineProps({
     model: {
