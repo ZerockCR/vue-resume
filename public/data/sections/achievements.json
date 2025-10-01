@@ -101,6 +101,29 @@
                     "links": [
                         {"href": "https://acaducr.ucr.ac.cr/it-essentials-v7/", "stringKey": "view_certification"}
                     ]
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2025, "month": 8},
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full-Stack Web Development Bootcamp",
+                            "description": "This bootcamp covers the fundamentals of web development, including HTML, CSS, JavaScript, Node, React, PostgreSQL, Web3, DApps and backend technologies.",
+                            "institution": "Udemy Learning Platform"
+                        },
+
+                        "es": {
+                            "title": "Full-Stack Web Development Bootcamp",
+                            "description": "Este bootcamp cubre los fundamentos del desarrollo web, incluyendo HTML, CSS, JavaScript, Node, React, PostgreSQL, Web3, DApps y tecnologías de backend.",
+                            "institution": "Plataforma de Aprendizaje Udemy"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.udemy.com/course/the-complete-web-development-bootcamp/", "stringKey": "view_certification"}
+                    ]
                 }
             ]
         }
