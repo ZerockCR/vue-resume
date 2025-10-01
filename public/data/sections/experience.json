@@ -40,15 +40,16 @@
                         },
                         "es": {
                             "title": "Desarrollador Full Stack",
-                            "description": "Desarrollardor Full Stack con más de 3 años de experiencia en el diseño e implementación de aplicaciones web escalables y eficientes con estructuras limpias y legibles. Experiencia en metodologías ágiles, trabajando en equipos multidisciplinarios para entregar proyectos desde el prototipo hasta la producción. Apasionado por la innovación tecnológica, busco desafíos que permitan aplicar mi expertise en soluciones full stack para impulsar el crecimiento empresarial y personal.",
+                            "description": "Desarrollador Full Stack con más de 3 años de experiencia en el diseño e implementación de aplicaciones web escalables y eficientes con estructuras limpias y legibles. Experiencia en metodologías ágiles, trabajando en equipos multidisciplinarios para entregar proyectos desde el prototipo hasta la producción. Apasionado por la innovación tecnológica, busco desafíos que permitan aplicar mi expertise en soluciones full stack para impulsar el crecimiento empresarial y personal.",
                             "list": {
                                 "title": "Responsabilidades Clave:",
                                 "items": [
-                                    "Desarrollo y mantenimiento de aplicaciones empresariales full stack utilizando <strong>C#, .NET Core, SQL y LinQ.</strong>",
-                                    "Diseño e implementación de servicios web <strong>REST y SOAP</strong> para integración de sistemas internos y externos.",
-                                    "He integrado bases de datos <strong>relacionales</strong> (MySQL) y NoSQL (MongoDB) para <strong>optimizar</strong> el <strong>rendimiento</strong> y la <strong>persistencia de datos</strong>.",
+                                    "Desarrollé aplicaciones empresariales full stack utilizando <strong>C#, .NET Core, SQL y LinQ</strong> para la inserción de datos y notificaciones por correo electrónico de forma automática y consultas optimizadas.",
+                                    "Realicé mantenimiento de aplicaciones empresariales optimizando su rendimiento y escalabilidad.",
+                                    "Diseñé e implementé servicios web <strong>REST y SOAP</strong> para integración de sistemas internos y externos.",
+                                    "Integré bases de datos <strong>relacionales</strong> (MySQL) y NoSQL (MongoDB) para <strong>optimizar</strong> el <strong>rendimiento</strong> y la <strong>persistencia de datos</strong>.",
                                     "<strong>Creación, consumo y optimización</strong> de APIs para mejorar la comunicación entre front end y back end.",
-                                    "Desarrollo front end con <strong>Vue.js</strong> y <strong>TypeScript</strong>, construyendo interfaces dinámicas, responsivas y compatibles con múltiples dispositivos.",
+                                    "Desarrollé proyectos con <strong>Vue.js</strong> y <strong>TypeScript</strong>, construyendo interfaces dinámicas, responsivas y compatibles con múltiples dispositivos, con el propósito de presentar un dashboard organizado para los usuarios.",
                                     "Uso avanzado de <strong>herramientas de desarrollo</strong> como <strong>Visual Studio</strong>, <strong>VS Code</strong>, <strong>Postman</strong>, <strong>GitHub</strong> y <strong>Bitbucket</strong> para control de versiones y pruebas.",
                                     "Optimización continua y adopción de nuevas tecnologías enfocadas en mejorar la <strong>eficiencia del software</strong> y la experiencia de usuario."
                                 ]
@@ -89,16 +90,16 @@
                         },
                         "es": {
                             "title": "Líder de Equipo",
-                            "description": "Lideré equipos multidisciplinarios, facilitando la comunicación fluida entre áreas técnicas y comerciales para asegurar la alineación con los objetivos del negocio. Por otra parte, impulsé la adopción de buenas prácticas de desarrollo y promoví la colaboración mediante revisiones de código y dinámicas ágiles. Me encargué de identificar, resolver retos técnicos y organizativos, proponiendo soluciones innovadoras que mejoran la eficiencia operativa y el rendimiento del equipo. Gestioné prioridades y tiempos de entrega en múltiples proyectos (13 proyectos), garantizando el cumplimiento de plazos y la calidad de los entregables.",
+                            "description": "Lideré dos equipos de desarrolladores, facilitando comunicación efectiva y alineación con objetivos entre las áreas técnicas y comerciales para asegurar la alineación con los objetivos del negocio. Por otra parte, impulsé la adopción de buenas prácticas de desarrollo y promoví la colaboración mediante revisiones de código y dinámicas ágiles. Me encargué de identificar, resolver retos técnicos y organizativos, proponiendo soluciones innovadoras que mejoran la eficiencia operativa y el rendimiento del equipo. Gestioné prioridades y tiempos de entrega en múltiples proyectos (13 proyectos), garantizando el cumplimiento de plazos y la calidad de los entregables.",
                             "list": {
                                 "title": "Responsabilidades Clave:",
                                 "items": 
                                 [
-                                    "Experiencia en la coordinación del equipo de dos desarrolladores, facilitando la <strong>comunicación efectiva</strong> entre áreas técnicas y de negocio para asegurar el éxito de los proyectos.",
-                                    "Conocimento en <strong>métodologías ágiles</strong>, para contribuir a un desarrollo colaborativo y eficiente.",
+                                    "Capacidad para coordinar varios equipos de entre dos y tres desarrolladores, facilitando la <strong>comunicación efectiva</strong> entre áreas técnicas y de negocio para asegurar el éxito de los proyectos.",
+                                    "Apliqué <strong>metodologías ágiles</strong>, para contribuir a un desarrollo colaborativo y eficiente.",
                                     "Realicé <strong>pruebas de usabilidad y funcionalidad</strong> para validar los diseños y recopilar comentarios.",
                                     "Colaboré con desarrolladores para identificar desafíos complejos y proponer <strong>soluciones innovadoras, optimizando procesos y recursos.</strong>",
-                                    "Trabajo en equipo para garantizar la <strong>viabilidad del diseño y su implementación.</strong>"
+                                    "Trabajé en equipo para garantizar la <strong>viabilidad del diseño y su implementación.</strong>"
                                 ]
                             },
                             "province": "San José",
