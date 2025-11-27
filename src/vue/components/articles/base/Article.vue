@@ -50,7 +50,7 @@ const description = computed(() => {
 
 const btnClick = () => {
     //Define the file URL.
-    const urlCV = './files/Andrés-Lobo---CV-2025.pdf'
+    const urlCV = './files/AndresLoboCV-2025.pdf'
 
     // Create a temporary link element to trigger the download.
     const link = document.createElement('a');
@@ -59,7 +59,7 @@ const btnClick = () => {
     link.href = urlCV;
 
     // Set the desired file name for the downloaded file.
-    link.download = 'Andrés-Lobo---CV-2025.pdf';
+    link.download = 'AndresLoboCV-2025.pdf';
 
     // Append the link to the document, trigger the click, and then remove the link.
     document.body.appendChild(link);
